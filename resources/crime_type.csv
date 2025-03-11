@@ -1,0 +1,35 @@
+Crime Category,Crime Subcategory,Crime Description,Crime Code
+Violent Crimes,Homicide,Homicide,110
+Violent Crimes,Homicide,Manslaughter,113
+Violent Crimes,Rape,Rape,121
+Violent Crimes,Rape,Attempted Rape,122
+Violent Crimes,Rape,Sexual Penetration w/ Foreign Object,815
+Violent Crimes,Rape,Oral Copulation,820
+Violent Crimes,Rape,Sodomy,821
+Violent Crimes,Robbery,Robbery,210
+Violent Crimes,Robbery,Robbery - Attempted,220
+Violent Crimes,Aggravated Assault,ADW (Aggravated Assault),230
+Violent Crimes,Aggravated Assault,ADW Against LAPD Officer,231
+Violent Crimes,Aggravated Assault,Child Beating,235
+Violent Crimes,Aggravated Assault,Spousal Beating (DV),236
+Violent Crimes,Aggravated Assault,Shots Fired,250
+Violent Crimes,Aggravated Assault,Shots Fired Inhabited Dwelling,251
+Violent Crimes,Aggravated Assault,Brandishing,761
+Violent Crimes,Aggravated Assault,Train Wrecking,926
+Property Crimes,Burglary,Burglary,310
+Property Crimes,Burglary,Burglary - Attempted,320
+Property Crimes,Motor Vehicle Theft,Stolen Vehicle,510
+Property Crimes,Motor Vehicle Theft,Stolen Vehicle - Attempted,520
+Property Crimes,Theft from Vehicle,Burg from Vehicle,330
+Property Crimes,Theft from Vehicle,Theft from Vehicle - Over $950,331
+Property Crimes,Theft from Vehicle,Burg from Vehicle - Attempted,410
+Property Crimes,Theft from Vehicle,Theft from Vehicle - Under $950,420
+Property Crimes,Theft from Vehicle,Theft from Vehicle - Attempted,421
+Property Crimes,Personal Theft,Theft from Person,350
+Property Crimes,Personal Theft,Purse Snatching,351
+Property Crimes,Personal Theft,Pickpocketing,352
+Property Crimes,Personal Theft,Drunkroll,353
+Property Crimes,Shoplifting,Shoplifting - Over $950,343
+Property Crimes,Shoplifting,Shoplifting - Under $950,442
+Property Crimes,Other Theft,Bicycle - Stolen,480
+Property Crimes,Other Theft,Boat - Stolen,487
