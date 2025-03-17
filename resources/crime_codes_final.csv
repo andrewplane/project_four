@@ -1,0 +1,143 @@
+﻿crime_code,crime_description,crime_subcategory,crime_category,crime_subcategory_mapping
+110,Homicide,Homicide,Violent Crimes,Homicide
+113,Manslaughter,Homicide,Violent Crimes,Homicide
+121,Rape,Rape,Violent Crimes,Sex Offenses
+122,Attempted Rape,Rape,Violent Crimes,Sex Offenses
+210,Robbery,Robbery,Violent Crimes,Physical & Psychological Violence
+220,Robbery - Attempted,Robbery,Violent Crimes,Physical & Psychological Violence
+230,ADW (Aggravated Assault),Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+231,ADW Against LAPD Officer,Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+235,Child Beating,Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+236,Spousal Beating (DV),Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+237,Child Neglect (see 300 w.i.c.),Offenses Against Family & Children,Violent Crimes,Physical & Psychological Violence
+250,Shots Fired,Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+251,Shots Fired Inhabited Dwelling,Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+310,Burglary,Burglary,Property Crimes,Property Crimes & Fraud
+320,Burglary - Attempted,Burglary,Property Crimes,Property Crimes & Fraud
+330,Burg from Vehicle,Theft from Vehicle,Property Crimes,Property Crimes & Fraud
+331,Theft from Vehicle - Over $950,Theft from Vehicle,Property Crimes,Property Crimes & Fraud
+341,Theft - $950.01 & over,Other Theft,Property Crimes,Property Crimes & Fraud
+343,Shoplifting - Over $950,Other Theft,Property Crimes,Property Crimes & Fraud
+345,Dishonest employee - grand theft,Other Theft,Property Crimes,Property Crimes & Fraud
+347,Grand Theft / Insurance Fraud,Fraud,Property Crimes,Property Crimes & Fraud
+349,Grand Theft / Auto Repair,Fraud,Property Crimes,Property Crimes & Fraud
+350,Theft from Person,Personal Theft,Property Crimes,Property Crimes & Fraud
+351,Purse Snatching,Personal Theft,Property Crimes,Property Crimes & Fraud
+352,Pickpocketing,Personal Theft,Property Crimes,Property Crimes & Fraud
+353,Drunkroll,Personal Theft,Property Crimes,Property Crimes & Fraud
+354,Theft of Identity,Fraud,Property Crimes,Property Crimes & Fraud
+410,Burg from Vehicle - Attempted,Theft from Vehicle,Property Crimes,Property Crimes & Fraud
+420,Theft from Vehicle - Under $950,Theft from Vehicle,Property Crimes,Property Crimes & Fraud
+421,Theft from Vehicle - Attempted,Theft from Vehicle,Property Crimes,Property Crimes & Fraud
+432,Blocking Door Induction Center,Obstruction of Government,Crimes Against Society,Government & Public Order Violations
+433,Driving Without Owner’s Consent,Motor Vehicle Theft,Property Crimes,Property Crimes & Fraud
+434,False imprisonment,Kidnapping / Abduction,Violent Crimes,Illegal Human Abduction & Trafficking
+435,Lynching,Assault,Violent Crimes,Physical & Psychological Violence
+436,Lynching - attempted,Assault,Violent Crimes,Physical & Psychological Violence
+437,Resisting arrest,Public Safety Violation,Crimes Against Society,Government & Public Order Violations
+438,Reckless driving,Public Safety Violation,Crimes Against Society,Government & Public Order Violations
+439,False police report,Public Safety Violation,Crimes Against Society,Government & Public Order Violations
+440,Theft Plain - Petty ($950 & Under),Other Theft,Property Crimes,Property Crimes & Fraud
+441,Theft - attempted,Other Theft,Property Crimes,Property Crimes & Fraud
+442,Shoplifting - Under $950,Other Theft,Property Crimes,Property Crimes & Fraud
+443,Shoplifting - attempted,Other Theft,Property Crimes,Property Crimes & Fraud
+444,Dishonest employee - petty theft,Other Theft,Property Crimes,Property Crimes & Fraud
+445,Dishonest Employee - attempted,Other Theft,Property Crimes,Property Crimes & Fraud
+446,Petty theft - auto repair,Other Theft,Property Crimes,Property Crimes & Fraud
+450,Theft from person - attempted,Personal Theft,Property Crimes,Property Crimes & Fraud
+451,Purse Snatching - Attempt,Personal Theft,Property Crimes,Physical & Psychological Violence
+452,Pickpocket - attempted,Personal Theft,Property Crimes,Property Crimes & Fraud
+453,Drunk Roll - Attempt,Personal Theft,Property Crimes,Property Crimes & Fraud
+470,Till Tap - $950.01 & over,Other Theft,Property Crimes,Property Crimes & Fraud
+471,Till Tap - $950 & under,Other Theft,Property Crimes,Property Crimes & Fraud
+472,Till Tap - attempted,Other Theft,Property Crimes,Property Crimes & Fraud
+473,Theft from coin m/c - $950.01 & over,Other Theft,Property Crimes,Property Crimes & Fraud
+474,Theft from coin m/c - $950 & under,Other Theft,Property Crimes,Property Crimes & Fraud
+475,Theft from coin m/c - attempted),Other Theft,Property Crimes,Property Crimes & Fraud
+480,Bicycle - Stolen,Other Theft,Property Crimes,Property Crimes & Fraud
+485,Bicycle - attempted stolen,Other Theft,Property Crimes,Property Crimes & Fraud
+487,Boat - Stolen,Other Theft,Property Crimes,Property Crimes & Fraud
+491,Boat - attempted stolen,Other Theft,Property Crimes,Property Crimes & Fraud
+510,Stolen Vehicle,Motor Vehicle Theft,Property Crimes,Property Crimes & Fraud
+520,Stolen Vehicle - Attempted,Motor Vehicle Theft,Property Crimes,Property Crimes & Fraud
+522,"Vehicle, Stolen - Other (Motorized Scooters, Bikes, etc.)",Motor Vehicle Theft,Property Crimes,Property Crimes & Fraud
+622,Battery on a firefighter,Assault,Violent Crimes,Physical & Psychological Violence
+623,Battery police (simple),Assault,Violent Crimes,Physical & Psychological Violence
+624,Battery - simple assault,Assault,Violent Crimes,Physical & Psychological Violence
+625,Other assault,Assault,Violent Crimes,Physical & Psychological Violence
+626,Intimate partner - simple assault,Assault,Violent Crimes,Physical & Psychological Violence
+627,Child abuse (physical) - simple assault,Offenses Against Family & Children,Violent Crimes,Physical & Psychological Violence
+647,Throwing object at moving vehicle,Public Safety Violation,Crimes Against Society,Government & Public Order Violations
+648,Arson,Arson,Property Crimes,Property Crimes & Fraud
+649,Document forgery / stolen felony,Counterfeiting / Forgery,Property Crimes,Property Crimes & Fraud
+651,Document worthless ($200.01 & over),Fraud,Property Crimes,Property Crimes & Fraud
+652,Document worthless ($200 & under),Fraud,Property Crimes,Property Crimes & Fraud
+653,"Credit cards, fraud use ($950.01 & over)",Fraud,Property Crimes,Property Crimes & Fraud
+654,"Credit cards, fraud use ($950 & under)",Fraud,Property Crimes,Property Crimes & Fraud
+660,Counterfeit,Counterfeiting / Forgery,Property Crimes,Property Crimes & Fraud
+661,Unauthorized computer access,Fraud,Property Crimes,Property Crimes & Fraud
+662,"Bunco, grand theft",Fraud,Property Crimes,Property Crimes & Fraud
+664,"Bunco, petty theft",Fraud,Property Crimes,Property Crimes & Fraud
+666,"Bunco, attempt",Fraud,Property Crimes,Property Crimes & Fraud
+668,"Embezzlement, grand theft ($950.01 & over)",Embezzlement,Property Crimes,Property Crimes & Fraud
+670,"Embezzlement, petty theft ($950 & under)",Embezzlement,Property Crimes,Property Crimes & Fraud
+740,"Vandalism - felony ($400 & over, all church vandalisms)",Vandalism,Property Crimes,Property Crimes & Fraud
+745,Vandalism - misdemeanor ($399 or under),Vandalism,Property Crimes,Property Crimes & Fraud
+753,Discharge Firearms/shots fired,Weapons Law Violations,Crimes Against Society,Government & Public Order Violations
+755,Bomb Scare,Weapons Law Violations,Crimes Against Society,Government & Public Order Violations
+756,Weapons possession/bombing,Weapons Law Violations,Crimes Against Society,Government & Public Order Violations
+760,Lewd/lascivious acts with child,Sex Offenses,Violent Crimes,Sex Offenses
+761,Brandishing,Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+762,Lewd conduct,Sex Offenses,Violent Crimes,Sex Offenses
+763,Stalking,Stalking / Harassment / Intimidation,Violent Crimes,Physical & Psychological Violence
+805,Pimping,Prostitution,Crimes Against Society,Sex Offenses
+806,Pandering,Prostitution,Crimes Against Society,Sex Offenses
+810,"Sex, unlawful (inc mutual consent, penetration w/ frgn obj)",Sex Offenses,Violent Crimes,Sex Offenses
+812,Crime against child (13 or under) (14-15 & susp 10 yrs older),Sex Offenses,Violent Crimes,Sex Offenses
+813,Child annoying (17yrs & under),Sex Offenses (Nonforcible),Violent Crimes,Sex Offenses
+814,Child pornography,Pornography / Obscene Material,Violent Crimes,Sex Offenses
+815,Sexual Penetration w/ Foreign Object,Rape,Violent Crimes,Sex Offenses
+820,Oral Copulation,Rape,Violent Crimes,Sex Offenses
+821,Sodomy,Rape,Violent Crimes,Sex Offenses
+822,Human trafficking - commercial sex acts,Human Trafficking,Violent Crimes,Illegal Human Abduction & Trafficking
+830,Incest (Sexual Acts Between Blood Relatives),Sex Offenses,Violent Crimes,Sex Offenses
+840,"Bestiality, Crime Against Nature, Sexual Assault with Animal",Animal Cruelty,Crimes Against Society,Government & Public Order Violations
+845,Sex offender registrant out of compliance,All Other Offenses,Crimes Against Society,Government & Public Order Violations
+850,Indecent exposure,Sex Offenses (Nonforcible),Violent Crimes,Sex Offenses
+860,Battery with sexual contact,Sex Offenses,Violent Crimes,Sex Offenses
+865,"Drugs, to a minor",Drug / Narcotic Offenses,Violent Crimes,Sex Offenses
+870,Child abandonment,Offenses Against Family & Children,Violent Crimes,Physical & Psychological Violence
+880,Disrupt school,Disorderly Conduct,Crimes Against Society,Government & Public Order Violations
+882,Inciting a Riot (Encouraging Public Violence),Disorderly Conduct,Crimes Against Society,Government & Public Order Violations
+884,Failure to Disperse (Ignoring Police Orders),Disorderly Conduct,Crimes Against Society,Government & Public Order Violations
+886,Disturbing the peace,Disorderly Conduct,Crimes Against Society,Government & Public Order Violations
+888,Trespassing,Trespassing of Real Property,Crimes Against Society,Government & Public Order Violations
+890,Failure to yield,All Other Offenses,Crimes Against Society,Government & Public Order Violations
+900,Violation of court order,All Other Offenses,Crimes Against Society,Government & Public Order Violations
+901,Violation of Restraining Order,All Other Offenses,Crimes Against Society,Government & Public Order Violations
+902,Violation of temporary restraining order,All Other Offenses,Crimes Against Society,Government & Public Order Violations
+903,Contempt of Court,All Other Offenses,Crimes Against Society,Government & Public Order Violations
+904,Firearms Emergency Protective Order (Firearms EPO),Weapons Law Violations,Crimes Against Society,Government & Public Order Violations
+906,Firearms restraining order (firearms ro),Weapons Law Violations,Crimes Against Society,Government & Public Order Violations
+910,Kidnapping,Kidnapping / Abduction,Violent Crimes,Illegal Human Abduction & Trafficking
+920,Kidnapping - grand attempt,Kidnapping / Abduction,Violent Crimes,Illegal Human Abduction & Trafficking
+921,Human trafficking - involuntary servitude,Human Trafficking,Crimes Against Society,Illegal Human Abduction & Trafficking
+922,Child stealing,Kidnapping / Abduction,Violent Crimes,Illegal Human Abduction & Trafficking
+924,Telephone Property - Damage,Vandalism,Property Crimes,Property Crimes & Fraud
+926,Train Wrecking,Aggravated Assault,Violent Crimes,Physical & Psychological Violence
+928,Threatening phone calls/letters,Threats & Assaults,Violent Crimes,Physical & Psychological Violence
+930,Criminal threats - no weapon displayed,Threats & Assaults,Violent Crimes,Physical & Psychological Violence
+931,"Replica firearms (sale, display, manufacture or distribute)",Weapons Law Violations,Crimes Against Society,Government & Public Order Violations
+932,Peeping Tom,Sex Offenses (Nonforcible),Crimes Against Society,Sex Offenses
+933,Prowler,Vagrancy,Crimes Against Society,Government & Public Order Violations
+940,Extortion,Extortion / Blackmail,Violent Crimes,Physical & Psychological Violence
+942,Bribery,Bribery,Crimes Against Society,Government & Public Order Violations
+943,Cruelty to animals,Animal Cruelty,Crimes Against Society,Government & Public Order Violations
+944,Conspiracy,Conspiracy,Crimes Against Society,Government & Public Order Violations
+946,Other Miscellaneous Crime,Public Safety Violation,Crimes Against Society,Government & Public Order Violations
+948,Bigamy (Multiple Marriages),Offenses Against Family & Children (Nonviolent),Crimes Against Society,Government & Public Order Violations
+949,Illegal dumping,Vandalism,Property Crimes,Property Crimes & Fraud
+950,"Defrauding Innerkeeper/Theft of Services, Over $950.01",Fraud,Property Crimes,Property Crimes & Fraud
+951,"Defrauding Innerkeeper/Theft of Services,  $950 & Under",Fraud,Property Crimes,Property Crimes & Fraud
+954,Contributing,Offenses Against Family & Children,Violent Crimes,Illegal Human Abduction & Trafficking
+956,"Letters, Lewd – Telephone Calls, Lewd",Sex Offenses (Nonforcible),Violent Crimes,Sex Offenses
