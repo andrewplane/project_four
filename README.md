@@ -20,7 +20,7 @@ Total number of crime codes: 141
 
 - No significant correlation was found between crime rates and moon phases, but a pattern emerges around seasonal solar events (Spring, Summer, Fall, and Winter Equinoxes), where crime rates frequently spike on or immediately after these dates.
 
-you can find Visualizations at Tableau :
+you can find Visualizations in Tableau Public :
 https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1
 
 This research is conducted purely for analytical and educational purposes and does not serve as an official crime report. The findings are subject to change as new data becomes available.
