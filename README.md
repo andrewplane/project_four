@@ -46,49 +46,151 @@ This research is conducted purely for analytical and educational purposes and do
 Offenses Part I offense classifications include (in this particular order): 
 
 **1. Criminal homicide**―
+
 a. **Murder and nonnegligent manslaughter**: 
+
 the willful (nonnegligent) killing of one human being by another. Deaths caused by negligence, attempts to kill, assaults to kill, suicides, and accidental deaths are excluded. 
 The program classifies justifiable homicides separately and limits the definition to: (1) the killing of a felon by a law enforcement officer in the line of duty; or (2) the killing of a felon, during the commission of a felony, by a private citizen. 
+
 b. **Manslaughter by negligence**: the killing of another person through gross negligence. Deaths of persons due to their own negligence, accidental deaths not resulting from gross negligence, and traffic fatalities are not included in the category manslaughter by negligence.
-**2. Rape**―The penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent of the victim.
-**3. Robbery**―The taking or attempting to take anything of value from the care, custody, or control of a person or persons by force or threat of force or violence and/or by putting the victim in fear.
-**4. Aggravated assault**―An unlawful attack by one person upon another for the purpose of inflicting severe or aggravated bodily injury. This type of assault usually is accompanied by the use of a weapon or by means likely to produce death or great bodily harm. Simple assaults are excluded.
-**5. Burglary (breaking or entering)**―The unlawful entry of a structure to commit a felony or a theft. Attempted forcible entry is included.
-**6. Larceny** -theft (except motor vehicle theft)―The unlawful taking, carrying, leading, or riding away of property from the possession or constructive possession of another. Examples are thefts of bicycles, motor vehicle parts and accessories, shoplifting, pocket-picking, or the stealing of any property or article that is not taken by force and violence or by fraud. Attempted larcenies are included. Embezzlement, confidence games, forgery, check fraud, etc., are excluded.
-**7. Motor vehicle theft**―The theft or attempted theft of a motor vehicle. A motor vehicle is self-propelled and runs on land surface and not on rails. Motorboats, construction equipment, airplanes, and farming equipment are specifically excluded from this category.
-**8. Arson** ―Any willful or malicious burning or attempt to burn, with or without intent to defraud, a dwelling house, public building, motor vehicle or aircraft, personal property of another, etc.
+
+
+**2. Rape**―
+
+The penetration, no matter how slight, of the vagina or anus with any body part or object, or oral penetration by a sex organ of another person, without the consent of the victim.
+
+
+**3. Robbery**―
+
+The taking or attempting to take anything of value from the care, custody, or control of a person or persons by force or threat of force or violence and/or by putting the victim in fear.
+
+
+**4. Aggravated assault**―
+
+An unlawful attack by one person upon another for the purpose of inflicting severe or aggravated bodily injury. This type of assault usually is accompanied by the use of a weapon or by means likely to produce death or great bodily harm. Simple assaults are excluded.
+
+
+**5. Burglary (breaking or entering)**―
+
+The unlawful entry of a structure to commit a felony or a theft. Attempted forcible entry is included.
+
+
+**6. Larceny** -
+
+theft (except motor vehicle theft)―The unlawful taking, carrying, leading, or riding away of property from the possession or constructive possession of another. Examples are thefts of bicycles, motor vehicle parts and accessories, shoplifting, pocket-picking, or the stealing of any property or article that is not taken by force and violence or by fraud. Attempted larcenies are included. Embezzlement, confidence games, forgery, check fraud, etc., are excluded.
+
+
+**7. Motor vehicle theft**―
+
+The theft or attempted theft of a motor vehicle. A motor vehicle is self-propelled and runs on land surface and not on rails. Motorboats, construction equipment, airplanes, and farming equipment are specifically excluded from this category.
+
+
+**8. Arson** ―
+
+Any willful or malicious burning or attempt to burn, with or without intent to defraud, a dwelling house, public building, motor vehicle or aircraft, personal property of another, etc.
 Human Trafficking, commercial sex acts—Inducing a person by force, fraud, or coercion to participate in commercial sex acts, or in which the person induced to perform such act(s) has not attained 18 years of age.
 **Human Trafficking, involuntary servitude—The obtaining of a person(s) through recruitment, harboring, transportation, or provision, and subjecting such persons by force, fraud, or coercion into involuntary servitude, peonage, debt bondage, or slavery (not to include commercial sex acts).
 
+
+
 Part II 
+
+
 Offenses Part II offenses encompass all other reportable classifications outside those defined as Part I. Law enforcement agencies report to the FBI only arrest data involving the Part II crimes: 
-**9. Other Assaults** 
-- Assaults and attempted assaults where no weapon was used or no serious or aggravated injury resulted to the victim. Stalking, intimidation, coercion, and hazing are included. 
+
+**9. Other Assaults** - 
+
+Assaults and attempted assaults where no weapon was used or no serious or aggravated injury resulted to the victim. Stalking, intimidation, coercion, and hazing are included. 
+
+
 **10. Forgery and Counterfeiting** - 
+
 The altering, copying, or imitating of something, without authority or right, with the intent to deceive or defraud by passing the copy or thing altered or imitated as that which is original or genuine; or the selling, buying, or possession of an altered, copied, or imitated thing with the intent to deceive or defraud. Attempts are included.
+
+
 **11. Fraud** - 
+
 The intentional perversion of the truth for the purpose of inducing another person or other entity in reliance upon it to part with something of value or to surrender a legal right. Fraudulent conversion, obtaining of money or property by false pretenses, confidence games, and bad checks, except forgeries and counterfeiting, are included.
+
+
 **12. Embezzlement** - 
+
 The unlawful misappropriation or misapplication by an offender to his/her own use or purpose of money, property, or some other thing of value entrusted to his/her care, custody, or control.
+
+
 **13. Stolen Property: Buying, Receiving, Possessing** - 
+
 Buying, receiving, possessing, selling, concealing, or transporting any property with the knowledge that it has been unlawfully taken, as by burglary, embezzlement, fraud, larceny, robbery, etc. Attempts are included.
+
+
 **14. Vandalism** -
+
  To willfully or maliciously destroy, injure, disfigure, or deface any public or private property, real or personal, without the consent of the owner or person having custody or control by cutting, tearing, breaking, marking, painting, drawing, covering with filth, or any other such means as may be specified by local law. Attempts are included.
+
+
 **15. Weapons: Carrying, Possessing, etc.**
+
+
 **16. Prostitution and Commercialized Vice** - 
+
 The unlawful promotion of or participation in sexual activities for profit.
+
+
 **17. Sex Offenses** (except rape, prostitution, and commercialized vice)- Offenses against chastity, common decency, morals, and the like.
-**18. Drug Abuse Violations** - The violation of laws prohibiting the production, distribution, and/or use of certain controlled substances. The unlawful cultivation, manufacture, distribution, sale, purchase, use, possession, transportation, or importation of any controlled drug or narcotic substance. Arrests for violations of state and local laws, specifically those relating to the unlawful possession, sale, use, growing, manufacturing, and making of narcotic drugs. The following drug categories are specified: opium or cocaine and their derivatives (morphine, heroin, codeine); marijuana; synthetic narcotics―manufactured narcotics that can cause true addiction (Demerol, methadone); and dangerous nonnarcotic drugs (barbiturates, Benzedrine).
-**19. Gambling** - To unlawfully bet or wager money or something else of value; assist, promote, or operate a game of chance for money or some other stake; possess or transmit wagering information; manufacture, sell, purchase, possess, or transport gambling equipment, devices, or goods; or tamper with the outcome of a sporting event or contest to gain a gambling advantage.
-**20. Offenses Against the Family and Children** - Unlawful nonviolent acts by a family member (or legal guardian) that threaten the physical, mental, or economic well-being or morals of another family member and that are not classifiable as other offenses, such as assault or sex offenses. Attempts are included.
-**21. Driving Under the Influence** - Driving or operating a motor vehicle or common carrier while mentally or physically impaired as the result of consuming an alcoholic beverage or using a drug or narcotic.
-**22. Liquor Laws** - The violation of state or local laws or ordinances prohibiting the manufacture, sale, purchase, transportation, possession, or use of alcoholic beverages, not including driving under the influence and drunkenness. Federal violations are excluded.
-**23. Drunkenness** - To drink alcoholic beverages to the extent that one’s mental faculties and physical coordination are substantially impaired. Driving under the influence is excluded.
-**24. Disorderly Conduct** - Any behavior that tends to disturb the public peace or decorum, scandalize the community, or shock the public sense of morality.
-**25. Vagrancy** - The violation of a court order, regulation, ordinance, or law requiring the withdrawal of persons from the streets or other specified areas; prohibiting persons from remaining in an area or place in an idle or aimless manner; or prohibiting persons from going from place to place without visible means of support.
-**26. All Other Offenses** - All violations of state or local laws not specifically identified as Part I or Part II offenses, except traffic violations.
-**27. Suspicion**- Arrested for no specific offense and released without formal charges being placed.
+
+
+**18. Drug Abuse Violations** - 
+
+The violation of laws prohibiting the production, distribution, and/or use of certain controlled substances. The unlawful cultivation, manufacture, distribution, sale, purchase, use, possession, transportation, or importation of any controlled drug or narcotic substance. Arrests for violations of state and local laws, specifically those relating to the unlawful possession, sale, use, growing, manufacturing, and making of narcotic drugs. The following drug categories are specified: opium or cocaine and their derivatives (morphine, heroin, codeine); marijuana; synthetic narcotics―manufactured narcotics that can cause true addiction (Demerol, methadone); and dangerous nonnarcotic drugs (barbiturates, Benzedrine).
+
+
+**19. Gambling** - 
+
+To unlawfully bet or wager money or something else of value; assist, promote, or operate a game of chance for money or some other stake; possess or transmit wagering information; manufacture, sell, purchase, possess, or transport gambling equipment, devices, or goods; or tamper with the outcome of a sporting event or contest to gain a gambling advantage.
+
+
+**20. Offenses Against the Family and Children** - 
+
+Unlawful nonviolent acts by a family member (or legal guardian) that threaten the physical, mental, or economic well-being or morals of another family member and that are not classifiable as other offenses, such as assault or sex offenses. Attempts are included.
+
+
+**21. Driving Under the Influence** -
+
+ Driving or operating a motor vehicle or common carrier while mentally or physically impaired as the result of consuming an alcoholic beverage or using a drug or narcotic.
+
+
+**22. Liquor Laws** - 
+
+The violation of state or local laws or ordinances prohibiting the manufacture, sale, purchase, transportation, possession, or use of alcoholic beverages, not including driving under the influence and drunkenness. Federal violations are excluded.
+
+
+**23. Drunkenness** -
+
+ To drink alcoholic beverages to the extent that one’s mental faculties and physical coordination are substantially impaired. Driving under the influence is excluded.
+
+
+**24. Disorderly Conduct** - 
+
+Any behavior that tends to disturb the public peace or decorum, scandalize the community, or shock the public sense of morality.
+
+
+**25. Vagrancy** - 
+
+The violation of a court order, regulation, ordinance, or law requiring the withdrawal of persons from the streets or other specified areas; prohibiting persons from remaining in an area or place in an idle or aimless manner; or prohibiting persons from going from place to place without visible means of support.
+
+
+**26. All Other Offenses** - 
+
+All violations of state or local laws not specifically identified as Part I or Part II offenses, except traffic violations
+.
+**27. Suspicion**- 
+
+Arrested for no specific offense and released without formal charges being placed.
+
+
 **28. Curfew and Loitering Laws—(Persons under 18)** - Violations by juveniles of local curfew or loitering ordinances.
+
+
 **29. Runaways—(Persons under 18)**
 
 
