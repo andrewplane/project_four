@@ -1,7 +1,7 @@
 # project_four
 Project 4 - Los Angeles Crime Report 2022 - 2024
 
-Our dataset consists of 
+Our dataset consists of LAPD (Los Angeles Police Department) crime data [link](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
 - Total number of crime records: 1,005,104
 - Total number of crime codes: 141
 
