@@ -20,7 +20,9 @@ Our dataset consists of LAPD (Los Angeles Police Department) crime data [link](h
 - No significant correlation was found between crime rates and moon phases, but a pattern emerges around seasonal solar events (Spring, Summer, Fall, and Winter Equinoxes), where crime rates frequently spike on or immediately after these dates.
 
 # Visualizations
-[Tableau Public](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
+- [Tableau Public Statistics](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
+- [Tableau Public Maps](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeMap2020-2024/Sheet2)
+- [Tableau Public Wildfire-Related Crime](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeStatisticsDuringWildfireEvents2020-2024/CrimeReportingDuringWildfires-LosAngeles)
 
 # Linear Regression
 Linear Regression proved to be the only model, that when applied to the dataset, rendered an R-squared value greater than 0.80 (or a classification accuracy greater than 75%). Data was processed to summarize crime occurances until the r-squared value exceeded 0.80. 
