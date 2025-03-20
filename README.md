@@ -53,7 +53,9 @@ This is a clear example of results found in all of the models that utilized mach
 Eventially other models were attempted with odd, unusable results. Below is an example of using PGA and k-means testing to categorize the data. While the flag shape is interesting, the segmentation of useless as the x-axis was time. For this data model to be useful, certain criminal activity would start and stop at different moments.
 ![k_means](images/k_means.png)
 ### What is going on?
-It turns out that records of crimes are nearly random. There are trends and clusters of activity, but human behavior is too complex to accurately model at this scale. Multiple researchers have found it difficult to improve a neural network model of criminal activity beyond 15% accuracy. LAPD recently implemented a predictive model using this very dataset (probably with additional datapoints used) and discontinued its use due to it reinforcing stereotypes instead of accurately modeling and predicting actual criminal activity. 
+It turns out that records of crimes are nearly random. There are trends and clusters of activity, but human behavior is too complex to accurately model at this scale. Multiple researchers have found it difficult to improve a neural network model of criminal activity beyond 16.4% accuracy. This same study attempted to implement the same structured network (using latitude, longitude, and time of day) as our team attempted. [citation](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.587943/full)
+
+LAPD recently implemented a predictive model using this very dataset (probably with additional datapoints used) and discontinued its use due to it reinforcing stereotypes instead of accurately modeling and predicting actual criminal activity. [citation](https://www.theguardian.com/us-news/2021/nov/07/lapd-predictive-policing-surveillance-reform)
 
 # Note
 This research is conducted purely for analytical and educational purposes and does not serve as an official crime report. The findings are subject to change as new data becomes available.
