@@ -1,7 +1,7 @@
 # project_four
 Project 4 - Los Angeles Crime Report 2022 - 2024
 
-Our dataset consists of 
+Our dataset consists of LAPD (Los Angeles Police Department) crime data [link](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
 - Total number of crime records: 1,005,104
 - Total number of crime codes: 141
 
@@ -20,7 +20,9 @@ Our dataset consists of
 - No significant correlation was found between crime rates and moon phases, but a pattern emerges around seasonal solar events (Spring, Summer, Fall, and Winter Equinoxes), where crime rates frequently spike on or immediately after these dates.
 
 # Visualizations
-[Tableau Public](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
+- [Tableau Public Statistics](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
+- [Tableau Public Maps](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeMap2020-2024/Sheet2)
+- [Tableau Public Wildfire-Related Crime](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeStatisticsDuringWildfireEvents2020-2024/CrimeReportingDuringWildfires-LosAngeles)
 
 # Linear Regression
 Linear Regression proved to be the only model, that when applied to the dataset, rendered an R-squared value greater than 0.80 (or a classification accuracy greater than 75%). Data was processed to summarize crime occurances until the r-squared value exceeded 0.80. 
@@ -53,7 +55,9 @@ This is a clear example of results found in all of the models that utilized mach
 Eventially other models were attempted with odd, unusable results. Below is an example of using PGA and k-means testing to categorize the data. While the flag shape is interesting, the segmentation of useless as the x-axis was time. For this data model to be useful, certain criminal activity would start and stop at different moments.
 ![k_means](images/k_means.png)
 ### What is going on?
-It turns out that records of crimes are nearly random. There are trends and clusters of activity, but human behavior is too complex to accurately model at this scale. Multiple researchers have found it difficult to improve a neural network model of criminal activity beyond 15% accuracy. LAPD recently implemented a predictive model using this very dataset (probably with additional datapoints used) and discontinued its use due to it reinforcing stereotypes instead of accurately modeling and predicting actual criminal activity. 
+It turns out that records of crimes are nearly random. There are trends and clusters of activity, but human behavior is too complex to accurately model at this scale. Multiple researchers have found it difficult to improve a neural network model of criminal activity beyond 16.4% accuracy. This same study attempted to implement the same structured network (using latitude, longitude, and time of day) as our team attempted. [citation](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.587943/full)
+
+LAPD recently implemented a predictive model using this very dataset (probably with additional datapoints used) and discontinued its use due to it reinforcing stereotypes instead of accurately modeling and predicting actual criminal activity. [citation](https://www.theguardian.com/us-news/2021/nov/07/lapd-predictive-policing-surveillance-reform)
 
 # Note
 This research is conducted purely for analytical and educational purposes and does not serve as an official crime report. The findings are subject to change as new data becomes available.
