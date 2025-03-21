@@ -21,7 +21,7 @@ Our dataset consists of LAPD (Los Angeles Police Department) crime data [link](h
 
 # Visualizations
 - [Tableau Public Statistics](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
-- [Tableau Public Maps](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeMap2020-2024/Sheet2)
+- [Tableau Public Maps](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeMap2020-2024/LACrimeMap2020-2024)
 - [Tableau Public Wildfire-Related Crime](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeStatisticsDuringWildfireEvents2020-2024/CrimeReportingDuringWildfires-LosAngeles)
 
 # Linear Regression
