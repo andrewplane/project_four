@@ -19,6 +19,8 @@ Our dataset consists of LAPD (Los Angeles Police Department) crime data [link](h
 
 - No significant correlation was found between crime rates and moon phases, but a pattern emerges around seasonal solar events (Spring, Summer, Fall, and Winter Equinoxes), where crime rates frequently spike on or immediately after these dates.
 
+- NOTE: SQL and SPARK were not utilized for this dataset as the data was easily loaded via CSV into a jypyter notebook file.
+
 # Visualizations
 - [Tableau Public Statistics](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
 - [Tableau Public Maps](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeMap2020-2024/LACrimeMap2020-2024)
