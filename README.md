@@ -1,7 +1,7 @@
 # project_four
 Project 4 - Los Angeles Crime Report 2022 - 2024
 
-Our dataset consists of 
+Our dataset consists of LAPD (Los Angeles Police Department) crime data [link](https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8/about_data)
 - Total number of crime records: 1,005,104
 - Total number of crime codes: 141
 
@@ -19,18 +19,52 @@ Our dataset consists of
 
 - No significant correlation was found between crime rates and moon phases, but a pattern emerges around seasonal solar events (Spring, Summer, Fall, and Winter Equinoxes), where crime rates frequently spike on or immediately after these dates.
 
-# Visualizations
-[Tableau Public](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
+- NOTE: SQL and SPARK were not utilized for this dataset as the data was easily loaded via CSV into a jypyter notebook file.
 
-# Predictive Modeling
+# Visualizations
+- [Tableau Public Statistics](https://public.tableau.com/app/profile/anya.bocharova/viz/LA_Crime_Viz/Story1)
+- [Tableau Public Maps](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeMap2020-2024/LACrimeMap2020-2024)
+- [Tableau Public Wildfire-Related Crime](https://public.tableau.com/app/profile/holly.bourgeois/viz/LACrimeStatisticsDuringWildfireEvents2020-2024/CrimeReportingDuringWildfires-LosAngeles)
+
+# Linear Regression
+Linear Regression proved to be the only model, that when applied to the dataset, rendered an R-squared value greater than 0.80 (or a classification accuracy greater than 75%). Data was processed to summarize crime occurances until the r-squared value exceeded 0.80. 
+
+Daily, weekly, and monthly summarries did not produce a high enough r-squared. The quarterly totals on crime activity yielded 0.8014 r-squared value. While the yearly summations yielded a higher r-squared value, the loss of detail did not justify its use.
+
+![regression: daily](images/daily.png)
+---
+![regression: weekly](images/weekly.png)
+---
+![regression: monthly](images/monthly.png)
+---
+![regression: quarterly](images/quarterly.png)
+---
+![regression: yearly](images/yearly.png)
+
+# Predictive Modeling with Neural Networks, k-means and Confusion Networks did not work
+## Neural Networks
 Predictive models were created to improve response times and allocate specialized resources for vulnerable populations. Using data from 1/2020 - 2/2025 a deep learning neural network was used to build a model that predicts that the victim of a report, call or crime is a minor (under 18) or senior (over 70) at accuracies of 96.5% and 95.7% respectively. 
 
-These high accuracies were obtained while only utilizing information that would be available to emergency dispatchers prior to answering a call. Using the call's time and location (latitude and longitude), calls could be prioritized to dispatch prior to speaking with a dispatcher and make a difference with these vulnerable populations. Faster responses save lives and have a much higher likelihood in resulting in arrest of perpetrators.
+These results were exciting and promising, but further investigation revieled that these networks (and others that tested for arrest as an outcome, gender of victims, or identifying violent crime) were ineffective. The models would exclude the smaller outcome and instead use chance to predict. 
+
+### For example:
+When identifying a minor was the probable victim of a crime (2.5% of the crime in the dataset), the model was 96.5% accuate. It achieved this by excluding the data pertaining to minors as victims. It essentially would identify all cases as having a non-minor as a victim and would be correct 96.5% of the time!
+
+ ![minor: nn](images/minor_nn.png)
+
+This is a clear example of results found in all of the models that utilized machine learning with this dataset. In the image above, class "1" is given 0.00 weight in training the model! When attempting to weight the model to oversample the minority data, accuracy plumetted to 24-30%. 
+
+Eventially other models were attempted with odd, unusable results. Below is an example of using PGA and k-means testing to categorize the data. While the flag shape is interesting, the segmentation of useless as the x-axis was time. For this data model to be useful, certain criminal activity would start and stop at different moments.
+![k_means](images/k_means.png)
+### What is going on?
+It turns out that records of crimes are nearly random. There are trends and clusters of activity, but human behavior is too complex to accurately model at this scale. Multiple researchers have found it difficult to improve a neural network model of criminal activity beyond 16.4% accuracy. This same study attempted to implement the same structured network (using latitude, longitude, and time of day) as our team attempted. [citation](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.587943/full)
+
+LAPD recently implemented a predictive model using this very dataset (probably with additional datapoints used) and discontinued its use due to it reinforcing stereotypes instead of accurately modeling and predicting actual criminal activity. [citation](https://www.theguardian.com/us-news/2021/nov/07/lapd-predictive-policing-surveillance-reform)
 
 # Note
 This research is conducted purely for analytical and educational purposes and does not serve as an official crime report. The findings are subject to change as new data becomes available.
 
-## Authors
+# Authors
 - Anya Bocharova, 2025
 [@AnyaBoch](https://github.com/AnyaBoch)
 
